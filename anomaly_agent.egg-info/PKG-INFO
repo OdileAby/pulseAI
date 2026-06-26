@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: anomaly-agent
+Version: 1.0.0
+Requires-Dist: pandas
+Requires-Dist: rich
+Requires-Dist: click
+Requires-Dist: scipy
+Requires-Dist: ollama
+Dynamic: requires-dist
