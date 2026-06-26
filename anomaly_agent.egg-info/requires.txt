@@ -1,5 +1,0 @@
-pandas
-rich
-click
-scipy
-ollama
