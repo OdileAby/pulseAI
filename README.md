@@ -1,4 +1,4 @@
-# Ops Anomaly Agent
+# PulseAI: An Operations Anomaly Agent
 
 A local AI-powered CLI tool that detects and explains anomalies in any CSV file.
 Runs 100% offline using Ollama — no API keys, no cloud, no cost.
